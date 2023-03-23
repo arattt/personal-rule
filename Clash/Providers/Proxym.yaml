@@ -14,3 +14,8 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
 
   - DOMAIN-SUFFIX,sym.gg
+  
+    # themoivedb
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,thetvdb.com
