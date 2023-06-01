@@ -17,11 +17,18 @@ payload:
 
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,xkx.me
-
+  - DOMAIN-SUFFIX,hostloc.com
     # themoivedb
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,thetvdb.com
+
+    # BT
+
+  - DOMAIN-SUFFIX,bitsearch.to
+  - DOMAIN-SUFFIX,bt4g.org
+  - DOMAIN-SUFFIX,kick4ss.com
+
 
     # ole
   - DOMAIN-SUFFIX,olemovienews.com
