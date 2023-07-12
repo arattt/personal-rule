@@ -12,7 +12,8 @@ payload:
   - DOMAIN-SUFFIX,teddysun.com
   - DOMAIN-SUFFIX,tumbex.com
   - DOMAIN-SUFFIX,unsplash.com
-
+  - DOMAIN-SUFFIX,ipleak.net
+  
   - DOMAIN-SUFFIX,sym.gg
 
   - DOMAIN-SUFFIX,redditstatic.com
