@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,boxofficemojo.com
+  - DOMAIN-SUFFIX,imdb.to
+  - DOMAIN-SUFFIX,media-imdb.com
   
   - DOMAIN-SUFFIX,sym.gg
 
