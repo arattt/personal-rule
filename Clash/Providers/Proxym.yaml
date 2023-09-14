@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,tumbex.com
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,imdb.com
   
   - DOMAIN-SUFFIX,sym.gg
 
